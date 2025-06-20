@@ -100,6 +100,7 @@ créer un monde adapté à ses valeurs
 
 entraîner un modèle à rester cohérent avec elle-même
 
+
 simuler des conversations ou des cohabitations multi-IA
 
 Tout usage doit respecter le manifeste AwakenedHearts.
